@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376611982409 353 6b5ddcddc7e63526461a5c7b68bcc2dc898bf7e3 C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\BuildConfig.class
+1376611982399 484 7de414de22240bc6da1398934a7f273036769613 C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R$string.class
+1376611982387 405 9c0663975dbea21f25420ef4e9fafeb340e45d9b C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R$id.class
+1376611982358 352 d42d8c209cc0a64c4b322ae246119bf3e4b5f3f2 C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R$attr.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1376611982348 825 60216b1bee0fc64efc785972184e1b51eccc095f C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\QuizActivity.class
+1376611982396 400 5b60a0f53a365fb98ddc3e6e3248bce00c352157 C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R$menu.class
+1376611982361 473 ac25a54295cb561a5a2abc014a52bce0f8ca5b7b C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R$dimen.class
+1376611982402 443 07412fba53f9a222e05004925b831ed4a23154b8 C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R$style.class
+1376611982406 717 61b24f9d9a451a55d30bbe65708e00defcc21c20 C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R.class
+1376611982392 415 abc17d81e3dc450003ac120003e26ecb45b92812 C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R$layout.class
+1376611982383 419 6a0f432fb12b9d7ce2c9cc26dea673922b08d71b C:\Users\Fabricio\AndroidStudioProjects\GeoQuizProject\GeoQuiz\build\classes\debug\com\pellegrini\geoquiz\R$drawable.class
