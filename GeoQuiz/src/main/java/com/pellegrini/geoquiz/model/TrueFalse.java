@@ -8,11 +8,13 @@ public class TrueFalse {
     private int mQuestion;
 
     private boolean mTrueQuestion;
+    private boolean mCheater;
 
     public TrueFalse(int question, boolean trueQuestion)
     {
         mQuestion = question;
         mTrueQuestion = trueQuestion;
+        mCheater = false;
     }
 
     public int getQuestion() {
@@ -31,4 +33,11 @@ public class TrueFalse {
         this.mTrueQuestion = mTrueQuestion;
     }
 
+    public boolean isCheater() {
+        return mCheater;
+    }
+
+    public void setCheater(boolean mCheater) {
+        this.mCheater = mCheater;
+    }
 }
